@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📫 How to reach me **nazrin.aghayeva@outlook.com**
+- 📫 How to reach me **nazrinaghayeva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
