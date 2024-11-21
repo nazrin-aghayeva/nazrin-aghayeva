@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazrin</h1>
-<h3 align="center">A passionate backend developer from Istanbul</h3>
+<h3 align="center">A passionate backend developer from Prague</h3>
 
 - 🌱 I’m currently learning **Kotlin**
 
